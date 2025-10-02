@@ -11,7 +11,7 @@ Given an array of strings strs, group all anagrams together into sublists. You m
 class Solution:
     def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
         """
-        Groups elements of an array of strings, strs, based on if they are anagrams..
+        Groups elements of an array of strings, strs, based on if they are anagrams.
 
             Parameters:
                     strs (list[str]): an array of strings
