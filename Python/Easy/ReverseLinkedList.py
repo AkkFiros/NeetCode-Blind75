@@ -17,7 +17,7 @@ Given the beginning of a singly linked list head, reverse the list, and return t
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         """
-        Given the head of a linked list, reverse the list and return the new head..
+        Given the head of a linked list, reverse the list and return the new head.
 
             Parameters:
                     head (Optional[ListNode]): the head of a linked list
