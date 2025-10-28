@@ -34,7 +34,7 @@ class Solution:
                     head (Optional[ListNode]): a linked list
 
             Returns:
-                    None::(modifies the linked list in place) 
+                    None: (modifies the linked list in place) 
         """
         # step 1: find middle of head using fast and slow pointers, break list into 2 halves
         slow_ptr = head
